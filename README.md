@@ -1,4 +1,4 @@
-### Marx Cerqueira- [Data Scientist] 👨‍💻
+### Cleverson Oliveira - [Data Scientist] 👨‍💻
 
 #### I am an electrical engineer passionate about data and turned a Data Scientist who loves leveraging data-driven solutions that make an impact on business and society!
 

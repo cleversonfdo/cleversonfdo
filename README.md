@@ -1,6 +1,6 @@
-### Cleverson Oliveira 👨‍💻
+### Cleverson Oliveira
 
-#### I'm an electrical engineer very interested in the power of data. What I like most about Data Science is that I can build data-based solutions for Business and Industry. With that knowledge I can make a positive impact on the sustainability of society.
+I'm an electrical engineer very interested in the power of data. What I like most about Data Science is that I can build data-based solutions for Business and Industry. With that knowledge I can make a positive impact on the sustainability of society.
 
 ### Languages and Tools:
 <p align="left">
@@ -72,13 +72,17 @@
 
 ---
 
-### Main Projects
+## Main Projects
 
-#### [Rossmann Sales Prediction - Regression](https://github.com/marxcerqueira/Kaggle-Rossman-Sales-Prediction)
+### Regression
 
-An end-to-end Data Science project with statistical theory explanations behind each section. Created five machine learning models to forecast sales for Rossmann, a major European drug-store chain firm. Predictions can be accessed by users through a bot from the smartphone app Telegram. 
+#### Rossmann Sales Prediction
 
-Repository: https://github.com/marxcerqueira/Kaggle-Rossman-Sales-Prediction
+Data Science project with application of 4 machine learning models to forecast sales at Rossmann, a European drugstore. The final product was a bot accessible via Telegram that can inform the user what the sales forecasts for each store will be.
+
+Repository: https://github.com/cleversonfdo/rossmann_sales_forecast
+
+### Classifcation
 
 #### [Custumer Churn Rate Prediction - Classification](https://github.com/marxcerqueira/Kaggle-Client-Churn-Prediction)
 
@@ -86,12 +90,15 @@ Using supervisioned machine learn model and learning to Rank metrics to evaluate
 
 Repository: https://github.com/marxcerqueira/Kaggle-Client-Churn-Prediction
 
+### Clustering
 
 #### [High Value Customer Indetification - Clustering](https://github.com/marxcerqueira/Kaggle-HighValue-Custormers-Identification)
 
 This project has a goal to discovery similiarity people to join a membership program. The marketing team will launch a loyalty program for the best customers in the base, called Insiders. But the team does not have an advanced knowledge in data analysis to elect the participants of the program
 
 Repository: https://github.com/marxcerqueira/Kaggle-HighValue-Custormers-Identification
+
+### Insights Projects
 
 #### [Flipping Houses Business Analytics - Insights Project](https://github.com/marxcerqueira/analytics-streamlit-dashboard)
 
@@ -130,6 +137,6 @@ Repository: https://github.com/marxcerqueira/analytics-streamlit-dashboard
 </p>
 
 [medium]: https://medium.com/@marxcerqueira
-[linkedin]: linkedin.com/in/marxcerqueira
+[linkedin]: linkedin.com/in/cleversonfdo
 [instagram]: https://instagram.com/marxcerqueira
 [twitter]: https://twitter.com/marxcerqueira

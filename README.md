@@ -115,6 +115,8 @@ Repository: https://github.com/marxcerqueira/analytics-streamlit-dashboard
 
 ### Connect with me:
 
+ADICIONAR OS ICONES DE CONTATO INCLUSIVE DA PAGINA DE PORTFOLIO PARA RETORNO
+https://github.com/SamuelOliveirads#hi-there-
 [<img align="left" alt="cleversonfdo | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" alt="cleversonfdo | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
@@ -137,6 +139,6 @@ Repository: https://github.com/marxcerqueira/analytics-streamlit-dashboard
 </p>
 
 [medium]: https://medium.com/@marxcerqueira
-[linkedin]: linkedin.com/in/cleversonfdo
+[linkedin]: https://linkedin.com/in/cleversonfdo
 [instagram]: https://instagram.com/marxcerqueira
 [twitter]: https://twitter.com/marxcerqueira

@@ -1,5 +1,5 @@
 ### Cleverson Oliveira
-
+!! Deletear esse repositorio e criar um novo do zero com o codigo final
 I'm an electrical engineer very interested in the power of data. What I like most about Data Science is that I can build data-based solutions for Business and Industry. With that knowledge I can make a positive impact on the sustainability of society.
 
 ### Languages and Tools:

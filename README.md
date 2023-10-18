@@ -1,40 +1,38 @@
-### Cleverson Oliveira - [Data Scientist] 👨‍💻
+### Cleverson Oliveira 👨‍💻
 
-#### I am an electrical engineer passionate about data and turned a Data Scientist who loves leveraging data-driven solutions that make an impact on business and society!
-
-- 💻 I’m a data scientist and former Electrical Engineer
-- 📈 I’m constantly learning and Improving my skills 🤣
-- 👯 I’m looking to collaborate with other Data Scientists and developers 
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to jump out of airplanes ✈️🪂
+#### I'm an electrical engineer very interested in the power of data. What I like most about Data Science is that I can build data-based solutions for Business and Industry. With that knowledge I can make a positive impact on the sustainability of society.
 
 ### Languages and Tools:
 <p align="left">
  <table>
   <tbody>
-    <tr valign="top">
+    <tr valign="top"> 
+     <td width="20%" align="center">
+        <span>RStudio</span><br><br>
+        <img height="48px" src="https://github.com/cleversonfdo/cleversonfdo/assets/87786119/30373b27-2871-4b5b-afdd-319ec51d2753">
+      </td>
+     <td width="20%" align="center">
+        <span>R</span><br><br>
+        <img height="48px" src="https://github.com/cleversonfdo/cleversonfdo/assets/87786119/7270becb-a5f9-438f-abed-2824d81074e3">
+      </td>
+     <td width="20%" align="center">
+        <span>Python</span><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
       <td width="20%" align="center">
         <span>VSCode</span><br><br>
         <img height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
       </td>
       <td width="20%" align="center">
-        <span>Python</span><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/python.svg">
+        <span>Pandas</span><br><br>
+        <img height="48px" src="https://github.com/cleversonfdo/cleversonfdo/assets/87786119/9ab98860-08bc-4260-9341-3554249c73ea">
       </td>
-      <td width="20%" align="center">
-        <span>pandas</span><br><br>
-        <img height="48px" src="https://pandas.pydata.org/static/img/pandas.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>NumPy</span><br><br>
-        <img height="48px" src="https://numpy.org/images/logos/numpy.svg">
-      </td>
+    </tr>
+    <tr valign="top">
       <td width="20%" align="center">
         <span>MongoDB</span><br><br>
         <img height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="20%" align="center">
         <span>seaborn</span><br><br>
         <img height="48px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
@@ -51,14 +49,19 @@
     <td width="20%" align="center">
         <span>Flask</span><br><br>
         <img height="48px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png">
-      </td>
+    </td>
+   </tr>
       <td width="20%" align="center">
         <span>Heroku</span><br><br>
         <img height="48px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
-   </tr>
+      </td>
       <td width="20%" align="center">
         <span>MySQL</span><br><br>
         <img height="58" src="https://img2.gratispng.com/20180819/xv/kisspng-logo-mysql-cluster-database-oracle-corporation-macrosolution-5b7962c3aaa0d2.7413479715346817956989.jpg">
+      </td>
+      <td width="20%" align="center">
+        <span>NumPy</span><br><br>
+        <img height="48px" src="https://github.com/cleversonfdo/cleversonfdo/assets/87786119/bff25ed4-47d3-4bd2-ad5a-02294a534cfc">
       </td>
     </tr>
   </tbody>
